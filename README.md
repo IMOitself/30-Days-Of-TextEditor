@@ -9,7 +9,7 @@ making an android text editor from scratch in 30 days
 ## Changes
 `left` image is today. `right` image is yesterday.
 
-<img src="docs/ss1.jpg" alt="not yet available" width="300"><img src="docs/ss2.jpg" alt="not yet available" width="300">
+<img src="docs/day1.jpg" alt="not yet available" width="300"><img src="docs/day2.jpg" alt="not yet available" width="300">
 
 <details>
   <summary>
@@ -41,5 +41,5 @@ making an android text editor from scratch in 30 days
   NOV 23-24: selection handles<br>
   NOV 25-26: cut, copy, paste<br>
   NOV 27-28: file editing<br>
-  NOV 29: CELEBRATE🎉<br>
+  NOV 29: CELEBRATEðŸŽ‰<br>
 </details>
