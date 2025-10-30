@@ -13,31 +13,28 @@ making an android text editor from scratch in 30 days
 
   </summary>
 
-  ### Phase 1
-  OCT 30-31: setting up<br>
-  NOV 1-2: render string as text on canvas<br>
-  NOV 3-4: tap positioning<br>
-  NOV 5: polish<br>
+  ### Week 1
+  OCT 31-1: setting up<br>
+  NOV 2-3: render string as text on canvas<br>
+  NOV 4-5: tap positioning<br>
+  NOV 6: polish<br>
 
-  ### Phase 2
-  NOV 6-7: text wrapping<br>
-  NOV 8-9: keyboard input<br>
-  NOV 10-11: scrolling<br>
-  NOV 12: polish<br>
+  ### Week 2
+  NOV 7-8: text wrapping<br>
+  NOV 9-10: keyboard input<br>
+  NOV 11-12: scrolling<br>
+  NOV 13: polish<br>
 
-  ### Phase 3
-  NOV 13-14: scrolling and flinging<br>
-  NOV 15-16: pinch to zoom<br>
-  NOV 17-18: horizontal scrolling<br>
-  NOV 19: polish<br>
+  ### Week 3
+  NOV 14-15: scrolling and flinging<br>
+  NOV 16-17: pinch to zoom<br>
+  NOV 18-19: horizontal scrolling<br>
+  NOV 20: polish<br>
 
-  ### Phase 4
-  NOV 20-21: text selection with long-press<br>
-  NOV 22-23: selection handles<br>
-  NOV 24-25: cut, copy, paste<br>
-  NOV 26: polish<br>
-
-  ### Phase 5
+  ### Week 4 +2 days
+  NOV 21-22: text selection with long-press<br>
+  NOV 23-24: selection handles<br>
+  NOV 25-26: cut, copy, paste<br>
   NOV 27-28: file editing<br>
   NOV 29: CELEBRATE🎉<br>
 </details>
