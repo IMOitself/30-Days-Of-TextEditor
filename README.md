@@ -4,7 +4,7 @@ making an android text editor from scratch in 30 days
 ## Changes
 `left` image is today. `right` image is yesterday.
 
-<img src="assets/ss1.jpg" alt="not yet available" width="300"><img src="assets/ss2.jpg" alt="not yet available" width="300">
+<img src="docs/ss1.jpg" alt="not yet available" width="300"><img src="docs/ss2.jpg" alt="not yet available" width="300">
 
 <details>
   <summary>
@@ -14,31 +14,30 @@ making an android text editor from scratch in 30 days
   </summary>
 
   ### Phase 1
-  Day 1-2: custom view that renders text on canvas<br>
-  Day 3-4: can touch, type text and see cursor<br>
-  Day 5-6: multi-line text with scrolling<br>
-  Day 7-8: text selection with highlight<br>
+  OCT 30-31: setting up<br>
+  NOV 1-2: render string as text on canvas<br>
+  NOV 3-4: tap positioning<br>
+  NOV 5: polish<br>
 
   ### Phase 2
-  Day 9-10: can save and open text files<br>
-  Day 11-12: working undo/redo system<br>
-  Day 13-14: cut/copy/paste<br>
-  Day 15: polish<br>
+  NOV 6-7: text wrapping<br>
+  NOV 8-9: keyboard input<br>
+  NOV 10-11: scrolling<br>
+  NOV 12: polish<br>
 
   ### Phase 3
-  Day 16-17: syntax highlighting<br>
-  Day 18-19: line numbers displayed in gutter<br>
-  Day 20-21: find & replace<br>
-  Day 22: bottom bar, cursor position (line:column)<br>
+  NOV 13-14: scrolling and flinging<br>
+  NOV 15-16: pinch to zoom<br>
+  NOV 17-18: horizontal scrolling<br>
+  NOV 19: polish<br>
 
   ### Phase 4
-  Day 23-24: multi-file editing with tabs<br>
-  Day 24-25: auto-save & recovery<br>
-  Day 26-27: customizable editor settings<br>
+  NOV 20-21: text selection with long-press<br>
+  NOV 22-23: selection handles<br>
+  NOV 24-25: cut, copy, paste<br>
+  NOV 26: polish<br>
 
   ### Phase 5
-  Day 28: performance optimization<br>
-  Day 29: stable, polished editor<br>
-  Day 30: celebrate! 🎉<br>
-
+  NOV 27-28: file editing<br>
+  NOV 29: CELEBRATE🎉<br>
 </details>
