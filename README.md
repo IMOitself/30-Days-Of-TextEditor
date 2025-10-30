@@ -1,6 +1,11 @@
 # 30-Days-Of-TextEditor
 making an android text editor from scratch in 30 days
 
+<div align="center">
+  
+  ## `Day 1`
+</div>
+
 ## Changes
 `left` image is today. `right` image is yesterday.
 
