@@ -3,7 +3,7 @@ making an android text editor from scratch in 30 days
 
 <div align="center">
   
-  ## `Day 1`
+  ## `Day 4`
 </div>
 
 ## Changes
@@ -36,10 +36,10 @@ making an android text editor from scratch in 30 days
   NOV 18-19: horizontal scrolling<br>
   NOV 20: polish<br>
 
-  ### Week 4 +2 days
+  ### Week 4
   NOV 21-22: text selection with long-press<br>
   NOV 23-24: selection handles<br>
   NOV 25-26: cut, copy, paste<br>
   NOV 27-28: file editing<br>
-  NOV 29: CELEBRATEðŸŽ‰<br>
+  NOV 29: CELEBRATE🎉<br>
 </details>
