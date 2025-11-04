@@ -1,8 +1,12 @@
 package imo.text_editor;
 
 import android.content.Context;
-import android.view.View;
 import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Typeface;
+import android.view.MotionEvent;
+import android.view.View;
 
 public class TextEditor extends View {
     public TextEditor(Context context) {
@@ -12,7 +16,15 @@ public class TextEditor extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-        //TODO: draw grid of rectangles based on text width and height 
+        Paint paint = new Paint();
+        paint.setTextSize(40f);
+        paint.setColor(Color.WHITE);
+        paint.setTypeface(Typeface.MONOSPACE);
+
+        String text = "i saw her in the rightest way, looking like anne hathaway";
+
+        CharBoxLine charBoxLine = new CharBoxLine(text, paint);
+        charBoxLine.draw(canvas, paint);
     }
 
     @Override
