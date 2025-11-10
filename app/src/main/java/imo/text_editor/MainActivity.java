@@ -13,6 +13,6 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onResume() {
 		super.onResume();
-        setTitle(CharBox.DEBUG.isEmpty() ? "Refresh to see debug info" : CharBox.DEBUG);
+        setTitle(CharBox.DEBUG.isEmpty() ? "exit and return to see debug info" : CharBox.DEBUG);
 	}
 }
