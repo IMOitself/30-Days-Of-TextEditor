@@ -9,4 +9,10 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(new TextEditor(this));
     }
+
+	@Override
+	protected void onResume() {
+		super.onResume();
+        setTitle(CharBox.DEBUG.isEmpty() ? "Refresh to see debug info" : CharBox.DEBUG);
+	}
 }

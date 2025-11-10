@@ -30,14 +30,7 @@ public class CharBoxLine {
     }
     
     public void draw(Canvas canvas, Paint paint) {
-        
         for (CharBox charBox : charBoxes) {
-            // DEBUG
-            paint.setColor(0xFF888888);
-            paint.setStrokeWidth(2);
-            paint.setStyle(Paint.Style.STROKE);
-            canvas.drawRect(charBox.left, charBox.top, charBox.right, charBox.bottom, paint);
-
             paint.setColor(Color.BLACK);
             paint.setStyle(Paint.Style.FILL);
             charBox.draw(canvas, paint);

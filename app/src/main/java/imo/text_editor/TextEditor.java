@@ -21,7 +21,7 @@ public class TextEditor extends View {
         paint.setColor(Color.WHITE);
         paint.setTypeface(Typeface.MONOSPACE);
 
-        String text = "i saw her in the rightest way, looking like anne hathaway";
+        String text = "I saw her in the rightest way, looking like anne hathaway";
 
         CharBoxLine charBoxLine = new CharBoxLine(text, paint);
         charBoxLine.draw(canvas, paint);
