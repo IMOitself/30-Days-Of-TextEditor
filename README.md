@@ -3,13 +3,9 @@ making an android text editor from scratch in 30 days
 
 <details>
   <summary>
-<div align="center">
-
-  
+    
   | D A Y 11 |
   | :--: |
-  
-</div>
 
   </summary>
 
