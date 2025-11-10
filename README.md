@@ -65,7 +65,8 @@ Week 4
 
 <br>
 
-## Changes
-`left` image is today. `right` image is yesterday.
+## Screenshots
+image 1 is before. <br>
+image 2 is after.
 
 <img src="docs/day1.jpg" alt="not yet available" width="300"><img src="docs/day2.jpg" alt="not yet available" width="300">
