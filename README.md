@@ -65,4 +65,4 @@ Week 4
 image 1 is before. <br>
 image 2 is after.
 
-<img src="docs/day1.jpg" alt="not yet available" width="300"><img src="docs/day2.jpg" alt="not yet available" width="300">
+<img src="docs/day1.jpg" alt="unavailable" width="300"><img src="docs/day11.jpg" alt="unavailable" width="300">
