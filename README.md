@@ -4,7 +4,7 @@ making an android text editor from scratch in 30 days
 <details>
   <summary>
     
-  | D A Y 11 |
+  | D A Y 12<br><sub>`behind schedule` |
   | :--: |
 
   </summary>
@@ -16,8 +16,8 @@ Week 1
   
 ✅✅ setting up  
 ✅✅ render string as text on canvas  
-⬜⬜ tap positioning  
-⬜ polish  
+❌❌ tap positioning  
+❌❌ polish  
 
 </details>
  
@@ -26,10 +26,10 @@ Week 1
  Week 2 ⭐
 </summary>
 
-⬜⬜ text wrapping  
-⬜🔳 keyboard input  
-⬜⬜ scrolling  
-⬜ polish  
+❌❌ text wrapping  
+❌❌ keyboard input  
+🔳⬜ tap positioning   
+⬜⠀⠀ rest
 
 </details>
 
@@ -37,11 +37,11 @@ Week 1
 <summary>
  Week 3
 </summary>
-
-⬜⬜ scrolling and flinging  
-⬜⬜ pinch to zoom  
-⬜⬜ horizontal scrolling  
-⬜ polish  
+  
+⬜⬜ text wrapping  
+⬜⬜ keyboard input  
+⬜⬜ scrolling  
+⬜⠀⠀ rest
 
 </details>
 
@@ -50,10 +50,10 @@ Week 1
 Week 4
 </summary>
 
-⬜⬜ text selection with long-press
-⬜⬜ selection handles  
-⬜⬜ cut, copy, paste  
-⬜⬜ file editing  
+⬜⬜ scrolling and flinging  
+⬜⬜ pinch to zoom  
+⬜⬜ horizontal scrolling  
+⬜⬜ long press selection  
 ⬜ CELEBRATE🎉
 
 </details>
